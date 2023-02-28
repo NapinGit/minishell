@@ -20,6 +20,7 @@ The idea of this project was to create a program acting like bash,
 
 The other builtins are the one from bash library.
 
+
 Usage : You should type "make" so everything will compile creating the executable ./minishell
 
 Then you could run the executable with "./minishell"
